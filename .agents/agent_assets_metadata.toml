@@ -1,0 +1,8 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "drn2CstviMsp8gvkDszWW"
+uri = "file://artifacts/portfolio/public/hero-bg.png"
+type = "image"
+title = "Abstract neural network data visualization"
